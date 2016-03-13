@@ -5,4 +5,5 @@ for i in sys.path:
     print i
 
 print "Using List Comprehension"
+# why error ?
 # print i for i in sys.path
